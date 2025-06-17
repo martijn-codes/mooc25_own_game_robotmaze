@@ -1,10 +1,15 @@
-# Pygame Robot - Escape the Maze
+# Escape the Maze 🧩
 
----------------
-A game where the player navigates a maze, avoids dangers, and collects rewards.
-Created by Martijn de Jonge for the Python Programming MOOC 2025.
+A final project built with **Python + Pygame** for the [MOOC.fi Python course](https://programming-25.mooc.fi/).
 
+Navigate a maze, collect coins, and avoid being caught by the monster. Find the exit after collecting at least 4 coins to win the game!
 
-A final project for the [MOOC.fi Python course](https://programming-25.mooc.fi/):  
+## 🎮 How to Play
+- Use arrow keys to move
+- Avoid the monster
+- Collect coins (you need 4+ to win)
+- Head to the door to escape
 
-🕹️ Built with Python & Pygame.
+## 🛠 Requirements
+- Python 3.x
+- `pygame` library (install with `pip install pygame`)
